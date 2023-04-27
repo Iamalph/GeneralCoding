@@ -1,0 +1,19 @@
+1) Move all the negative elements to one side of the array
+2) Find the Union and Intersection of the two sorted arrays.
+3) Write a program to cyclically rotate an array by one
+4) find Largest sum contiguous Subarray
+5) Minimum no. of Jumps to reach end of an array
+6) Merge 2 sorted arrays without using Extra space.
+7) Spiral traversal on a Matrix
+8) Search an element in a matrix
+9) Find median in a row wise sorted matrix
+10) Find row with maximum no. of 1's in 2d matrix  
+11) Print elements in sorted order using row-column wise sorted matrix
+
+list all info:
+https://www.geeksforgeeks.org/list-interface-java-examples/
+
+https://www.geeksforgeeks.org/program-reverse-string-iterative-recursive/
+https://www.geeksforgeeks.org/stack-set-3-reverse-string-using-stack/
+https://www.geeksforgeeks.org/program-reverse-string-iterative-recursive/
+https://www.geeksforgeeks.org/stringbuilder-class-in-java-with-examples/
